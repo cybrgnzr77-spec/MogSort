@@ -1,0 +1,8 @@
+# Never commit game client files or anything unpacked from them.
+*.dll
+*.bin
+*.DAT
+# Editor / OS clutter
+.DS_Store
+Thumbs.db
+*.swp
