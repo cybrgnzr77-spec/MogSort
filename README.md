@@ -4,6 +4,8 @@ Sorts your storage containers automatically the moment you open them: Mog Safe, 
 Mog Locker, Mog Satchel, Mog Sack, Mog Case and Mog Wardrobes 1–8. The result is exactly what you'd get by
 pressing **Sort → Auto** yourself, and it follows your **Config → Gameplay → Sort Type** setting.
 
+[Downloads\(https://github.com/cybrgnzr77-spec/MogSort/releases)
+
 ## Install
 
 1. Download the repository (Code → Download ZIP) or clone it, and put its files in `Ashita/addons/MogSort/`,
